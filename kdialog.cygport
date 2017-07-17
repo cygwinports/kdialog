@@ -1,0 +1,10 @@
+inherit kf5
+
+NAME="kdialog"
+VERSION=17.04.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE dialog"
+DESCRIPTION="kdialog allows you to display dialog boxes from shell scripts.
+The syntax is very much inspired from the text-mode dialog command."
+
